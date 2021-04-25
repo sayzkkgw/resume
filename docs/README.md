@@ -5,11 +5,12 @@ Involved in big data field services for data movements, orchestrations, and OSS 
 
 <br>
 
-|Email|sayzkkgw@gmail.com|
+|info|value|
 -----|------------------|
-|**Location**|Tokyo, Japan|
-|**Linkedin**|https://www.linkedin.com/in/seiji-kakogawa/|
-|**GitHub**|https://github.com/yururin|
+|Email|sayzkkgw@gmail.com|
+|Location|Tokyo, Japan|
+|Linkedin|https://www.linkedin.com/in/seiji-kakogawa/|
+|GitHub|https://github.com/yururin|
 
 # <span style="color: #51d6b3;">Work Experience</span>
 >>### Microsoft
