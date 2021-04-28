@@ -25,9 +25,11 @@ Involved in big data field services for data movements, data orchestrations, and
 >>- Created & managed data warehouse for data analysis using Glue, Athena on AWS
 >>- Main tech stack: Python, SQL, AWS
 >>- Frameworks, libraries: Scikit-learn, Numpy, Pandas, Matplotlab, Seaborn, Luigi
+>>
 >>#### Junior Data Scientist (*2019/09 - 2020/05*)
 >>- Developed a dashboard that aggregate various data of the business for internal use using Python and Google Data Studio
 >>- Experienced statistical analysis using SQL on RDBMS
+>>
 >>#### Sales & Data analyst (*2018/04 - 2019/08*)
 >
 >>### Lecien Corporation
