@@ -1,7 +1,7 @@
 # <span style="color: #51d6b3;"> Seiji Kakogawa </span>
 ### Cloud Support Enginner
 Azure customer support engineer at Microsoft Japan. <br>
-Involved in big data field services for data movements, orchestrations, and OSS projects such as Hadoop, Spark, Kafka, etc on Azure.
+Involved in big data field services for data movements, data orchestrations, and OSS-based services such as Hadoop, Spark, Kafka, etc on Azure.
 
 <br>
 
@@ -14,15 +14,28 @@ Involved in big data field services for data movements, orchestrations, and OSS 
 
 # <span style="color: #51d6b3;">Work Experience</span>
 >>### Microsoft
->> - #### Customer Support Engineer (*2021/01 - current*)
+>> #### Customer Support Engineer (*2021/01 - current*)
+>>- Experience technical cloud support enginner for big data services such as Data Factory, Cosmos DB, HDInsight, Azure Databricks, and so on
+>>- Develop fundamental cloud archetecture knowledge and do various type of troubleshooring
+>>- Increase the customer satisfaction by strong communication skills
 >
 >>### Metroengines
->> - #### Data Scientist Assistant Manager (*2020/06 - 2020/12*)
->> - #### Data Scientist (*2019/09 - 2020/05*)
->> - #### Sales & Data analyst (*2018/04 - 2019/08*)
+>>#### Data Scientist Assistant Manager (*2020/06 - 2020/12*)
+>>- Developed a regression model of demand prediction using actual sales data of retails shops
+>>- Created & managed data warehouse for data analysis using Glue, Athena on AWS
+>>- Main tech stack: Python, SQL, AWS
+>>- Frameworks, libraries: scikit-learn, numpy, pandas, matplotlab, seaborn, luigi, gokart
+
+>>#### Junior Data Scientist (*2019/09 - 2020/05*)
+>>- Developed a dashboard that aggregate various data of the business for internal use using Python and Google Datastudio
+>>- Experienced statistical analysis using SQL on RDBMS
+>>#### Sales & Data analyst (*2018/04 - 2019/08*)
 >
 >>### Lecien Corporation
->> - #### International Sales (*2016/04 - 2018/03*)
+>>#### International Sales (*2016/04 - 2018/03*)
+>>- Achieved 150% year-over-year growth in sales in the Asian market
+>>- Experienced in import and export operations
+>>- Developed a software program for internal use to improve business efficiency using Excel macros
 
 # <span style="color: #51d6b3;">Education</span>
 ### Kansai University
@@ -30,6 +43,20 @@ Involved in big data field services for data movements, orchestrations, and OSS 
 #### ESL in CA, USA (*2014/09 - 2015/09*)
 
 # <span style="color: #51d6b3;">Skills</span>
+- AWS
+- Azure
+- Python
+- Flutter
+- Rust
+- HTML5
+- CSS3
+- JavaScript
+- Vue.js
+- Linux
+- Docker
+- Git
+- GitHub Actions
+- SQL
 
 # <span style="color: #51d6b3;">Languages</span>
 
