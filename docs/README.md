@@ -24,7 +24,7 @@ Involved in big data field services for data movements, data orchestrations, and
 >>- Developed a regression model of demand prediction using actual sales data of retails shops
 >>- Created & managed data warehouse for data analysis using Glue, Athena on AWS
 >>- Main tech stack: Python, SQL, AWS
->>- Frameworks, libraries: scikit-learn, numpy, pandas, matplotlab, seaborn, luigi, gokart
+>>- Frameworks, libraries: Scikit-learn, Numpy, Pandas, Matplotlab, Seaborn, Luigi
 
 >>#### Junior Data Scientist (*2019/09 - 2020/05*)
 >>- Developed a dashboard that aggregate various data of the business for internal use using Python and Google Datastudio
