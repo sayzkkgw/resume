@@ -57,6 +57,8 @@ Involved in big data field services for data movements, data orchestrations, and
 - Git
 - GitHub Actions
 - SQL
+- Hadoop
+- Spark
 
 # <span style="color: #51d6b3;">Languages</span>
 
