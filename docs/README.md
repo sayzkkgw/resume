@@ -44,14 +44,14 @@ Involved in big data field services for data movements, data orchestrations, and
 #### ESL in CA, USA (*2014/09 - 2015/09*)
 
 # <span style="color: #51d6b3;">Skills</span>
+
 - AWS
 - Azure
 - Python
 - Flutter
 - Rust
-- HTML5
-- CSS3
 - JavaScript
+- TypeScript
 - Vue.js
 - Linux
 - Docker
