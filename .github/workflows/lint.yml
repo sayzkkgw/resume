@@ -1,0 +1,6 @@
+name: lint-checker
+
+on:
+  push:
+    branches:
+      - dev
