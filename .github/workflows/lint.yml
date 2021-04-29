@@ -1,6 +1,6 @@
-name: lint-checker
+# name: lint-checker
 
-on:
-  push:
-    branches:
-      - dev
+# on:
+#   push:
+#     branches:
+#       - dev
