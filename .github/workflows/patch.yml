@@ -27,8 +27,8 @@ jobs:
         with:
           node-version: '14'
       - name: install npm
-      - run: npm install
+        run: npm install
       - name: install npm library called md-to-pdf
-      - run: npm i -g md-to-pdf
+        run: npm i -g md-to-pdf
 
       # Runs a single command using the runners shell
