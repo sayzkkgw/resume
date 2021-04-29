@@ -29,3 +29,5 @@ jobs:
         run: npm install
       - name: install npm library called md-to-pdf
         run: npm i -g md-to-pdf
+      - name: create pdf
+        run: md-to-pdf docs/README.md
