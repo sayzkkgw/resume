@@ -36,14 +36,20 @@ jobs:
       - name: create pdf
         run: md-to-pdf docs/README.md
 
+      - name: tag creation
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v5.5
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+
       - name: create release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: ${{ steps.tag_version.outputs.new_tag }}
+          release_name: Release ${{ steps.tag_version.outputs.new_tag }}
           draft: false
           prerelease: false
 
