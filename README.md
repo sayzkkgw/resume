@@ -1,5 +1,5 @@
 # Welcome to my resume!
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/yururin/resume/releases)
 [![pdf-creator](https://github.com/yururin/resume/actions/workflows/patch.yml/badge.svg?branch=main)](https://github.com/yururin/resume/actions/workflows/patch.yml)
 
 
