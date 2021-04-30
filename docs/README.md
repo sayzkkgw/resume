@@ -1,7 +1,7 @@
 # <span style="color: #51d6b3;"> Seiji Kakogawa </span>
 ### Cloud Support Enginner
 Azure customer support engineer at Microsoft Japan. <br>
-Involved in big data field services for data movements, data orchestrations, and OSS-based services such as Hadoop, Spark, Kafka, etc on Azure.
+Involved in big data field services for data movements, data orchestrations, and OSS-based services such as Hadoop, Spark, Kafka, Databricks, etc on Azure.
 
 <br>
 
