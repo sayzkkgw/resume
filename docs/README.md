@@ -7,10 +7,10 @@ Involved in big data field services for data movements, data orchestrations, and
 
 |info|value|
 -----|------------------|
-|Email|sayzkkgw@gmail.com|
+|Email|[sayzkkgw@gmail.com](sayzkkgw@gmail.com)|
 |Location|Tokyo, Japan|
-|Linkedin|https://www.linkedin.com/in/seiji-kakogawa/|
-|GitHub|https://github.com/yururin|
+|Linkedin|[https://www.linkedin.com/in/seiji-kakogawa/](https://www.linkedin.com/in/seiji-kakogawa/)|
+|GitHub|[https://github.com/yururin](https://github.com/yururin)|
 
 # <span style="color: #51d6b3;">Work Experience</span>
 >>### Microsoft
@@ -51,7 +51,6 @@ Involved in big data field services for data movements, data orchestrations, and
 - Flutter
 - Rust
 - JavaScript
-- TypeScript
 - Vue.js
 - Linux
 - Docker
