@@ -16,7 +16,7 @@ Involved in big data field services for data movements, data orchestrations, and
 >>### Microsoft
 >> #### Customer Support Engineer (*2021/01 - current*)
 >>- Experience technical cloud support enginner for big data services such as Data Factory, Cosmos DB, HDInsight, Azure Databricks, and so on
->>- Develop fundamental cloud archetecture knowledge and do various type of troubleshooring
+>>- Develop fundamental cloud archetecture knowledge and do various types of troubleshooring
 >>- Increase the customer satisfaction by strong communication skills
 >
 >>### Metroengines
@@ -48,18 +48,11 @@ Involved in big data field services for data movements, data orchestrations, and
 - AWS
 - Azure
 - Python
-- Flutter
-- Rust
 - JavaScript
-- Vue.js
 - Linux
 - Docker
 - Git
-- GitHub Actions
 - SQL
-- Hadoop
-- Spark
-
 # <span style="color: #51d6b3;">Languages</span>
 
 |Language|Proficiency|
